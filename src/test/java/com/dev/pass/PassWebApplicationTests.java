@@ -1,4 +1,4 @@
-package com.dev.pass.passweb;
+package com.dev.pass;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
